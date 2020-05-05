@@ -1,0 +1,28 @@
+.header {
+	width: 100vw;
+	height: 64px;
+	background-color: #1D3557;
+	display: flex;
+	align-items: center;
+  justify-content: space-between;
+	padding: 0 4%;
+}
+
+.header span, .header svg, .logo {
+	color: #F1FAEE;
+}
+
+.logo {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.profile {
+	display: flex;
+	align-items: center;
+}
+
+.profile svg {
+	font-size: 20px;
+	margin-left: 6px;
+}
