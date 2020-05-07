@@ -1,0 +1,26 @@
+#footer {
+	width: 96%;
+	max-width: 768px;
+	background-color: #fff;
+	border-radius: 4px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+	padding: 14px;
+	margin: 0 auto 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 14px;
+}
+
+#footer svg {
+	font-size: 16px;
+	margin: 0 4px;
+}
+
+#footer svg:nth-child(1) {
+	color: #0dbfdb;
+}
+
+#footer svg:nth-child(2) {
+	color: #de3c4b;
+}
